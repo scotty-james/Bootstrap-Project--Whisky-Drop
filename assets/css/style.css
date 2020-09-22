@@ -4,8 +4,6 @@ body {
 
 /* Containers */
 
-.container-wrapper {}
-
 .container-wrapper--red {
     background-color: #f05f40;
     color: white;
@@ -83,10 +81,6 @@ body {
 .navbar .navbar-nav a {
     font-weight: bold;
 }
-
-.quotes-container {}
-
-.features-container {}
 
 /* Page Headers */
 
